@@ -1,5 +1,9 @@
 # Asare Weather App ☀️
 
+[Github Pages](https://davidpayne-au.github.io/asare/)
+
+[![Deploy to GitHub Pages](https://github.com/davidpayne-au/asare/actions/workflows/deploy.yml/badge.svg)](https://github.com/davidpayne-au/asare/actions/workflows/deploy.yml)
+
 A beautiful and cheerful weather app built with React and TypeScript that displays current weather conditions using the Open-Meteo API.
 
 ## Features
